@@ -1,0 +1,23 @@
+{
+  "name": "test-case-swaglabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euopaulin/Test-Case-SwagLabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euopaulin/Test-Case-SwagLabs/issues"
+  },
+  "homepage": "https://github.com/euopaulin/Test-Case-SwagLabs#readme",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
